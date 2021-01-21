@@ -1,0 +1,23 @@
+1. Pins PB6 and PB7 are connected to the external 16MHz clock crystal
+
+2. D4, D5, D6, D7
+
+3. 0x26
+
+4. Multiplying the number by 2
+
+5. 0x09
+
+6. Dividing the number by 2
+
+7. 0x38	0011 1000     32,16,8,	56
+
+8. 0x28	0010 1000
+
+9. bit positions 3 to 5
+
+10. 0x08
+
+11. 0x20
+
+12. 0x28
